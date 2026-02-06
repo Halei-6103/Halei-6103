@@ -8,57 +8,27 @@
 ## 💻 About Me
 
 I'm a Computer Science student specializing in Human-Computer Interaction (HCI).  
-I enjoy building intuitive, user-focused applications and designing engaging interactive experiences.
-
-My primary interests are front-end development and game design. I enjoy blending clean UI design with functional, scalable code.
-
----
-
-## 🎨 UI & Design
-
-- Figma (UI/UX design & prototyping)
-- Wireframing and interaction design
-- Human-centered design principles
-- Usability testing fundamentals
-
----
-
-## 🖥️ Front-End Development
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- TypeScript  
-- React  
-- Node.js (basic backend support)
-
----
-
-## 🎮 Game Development
-
-- Unity  
-- Unreal Engine
-- Godot
-- VR Level Designs
+I mostly enjoy working on front end  development - React, TypeScript, JavaScript, and a decent amount of Figma design
+But I also have a passion for game design - UE5, Unity, Godot
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Git & GitHub  
-- VS Code  
-- MySQL  
+- React, TypeScript, JavaScript, Node.js, CSS, HTML
+- Figma, Android Studio
+- GitHub & GitLab, Slack, Asana
 - Docker (basic experience)
   
 ---
 
-## 🚀 Interests
+## A Bit About Me
 
-- Fly Fishing
-- Brazilian Jiu Jitsu
-- Game Development
-- Website Design and Development
-- Hiking
+- I love Fly Fishing
+- I currently train Brazilian Jiu Jitsu
+- I have developed both VR and traditional games
+- Big fan of Coffee
+- Enjoy developing website or portfolio design requests for friends and family
 
 ---
 
