@@ -22,7 +22,7 @@ But I also have a passion for game design - UE5, Unity, Godot
   
 ---
 
-## A Bit About Me
+## 🌀 A Bit About Me
 
 - I love Fly Fishing
 - I currently train Brazilian Jiu Jitsu
