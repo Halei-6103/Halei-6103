@@ -8,7 +8,7 @@
 ## 💻 About Me
 
 I'm a Computer Science student specializing in Human-Computer Interaction (HCI).  
-I mostly enjoy working on front end  development - React, TypeScript, JavaScript, and a decent amount of Figma design
+I mostly enjoy working on front end  development - React, TypeScript, JavaScript, and a decent amount of Figma design.
 But I also have a passion for game design - UE5, Unity, Godot
 
 ---
