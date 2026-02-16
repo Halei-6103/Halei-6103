@@ -34,5 +34,6 @@ But I also have a passion for game design - UE5, Unity, Godot
 
 ## 📫 Connect With Me
 
-Feel free to reach out or check out my projects!
+Feel free to reach out on LinkedIn, Email, or check out my projects!  
+Check out My Portfolio here : https://halei-6103.github.io/My-Portfolio/ 
 
